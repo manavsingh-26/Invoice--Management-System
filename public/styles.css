@@ -1,0 +1,65 @@
+body {
+    background-color: #2c3d4d;
+}
+
+header {
+    margin-bottom: 5%;
+}
+
+.header {
+    
+    background: transparent radial-gradient(closest-side at 50% 50%, #35465d 0%, #304765 100%) 0% 0%;
+    box-shadow: 80px;
+}
+
+footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
+
+footer p {
+    color: #ccc;
+}
+
+.button-layout {
+
+    text-align: center;
+    width: 100%;
+}
+
+.inputRounded {
+    margin : 2% 0;
+}
+
+.grid{
+    margin: 1% 0 3%;
+}
+
+#addbutton{
+    border-right-color: #235688;
+    
+}
+
+label {
+    color: white;
+    line-height: 1.5rem;
+    margin-bottom: 10px;
+}
+
+input {
+    color: white;
+    border-color: white;
+    background-color: white;
+    outline-color: white;
+}
+
+input[type="checkbox" i] {
+    color: white;
+    border-color: white;
+    background-color: white;
+    outline-color: white;
+    
+}
